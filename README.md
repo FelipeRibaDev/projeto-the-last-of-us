@@ -1,3 +1,3 @@
 # projeto-the-last-of-us
 
-Projeto criado para exercício e portifólio em evento do canal Dev em Dobro
+Projeto Front-end (HTML CSS JS) criado para exercício e portifólio em evento do canal Dev em Dobro
